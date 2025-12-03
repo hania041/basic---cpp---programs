@@ -8,6 +8,7 @@ As I continue learning, I’ll add more programs covering different topics.
 ## Contents
 
 - `add-two-numbers.cpp` — Adds two numbers and prints the result.
+- `positive-negative numbers checker.cpp` _ check whether a number is positive,negative or zero.
 
 More programs will be added soon!
 
